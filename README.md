@@ -33,7 +33,9 @@ To be committed in making ethical decisions, always keeping our players in mind,
 The games industry is ever-changing
 We’ve worked to improve through experience, teaching one another and cultivating the desire to be the best at what we do. We see this as an individual responsibility as well as a one company. To be supportive and help them gain the knowledge and training they need.
 
-# Copyright (c) 2017 ϻӡϻӡή†Ǿ ♥ ϻǾЯí (www.RPG-Incorp.com)
+# Copyright (c) 2017 ϻӡϻӡή†Ǿ ♥ ϻǾЯí
+
+All rights reserved (www.RPG-Incorp.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files 
 (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, 
