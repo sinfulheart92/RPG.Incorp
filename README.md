@@ -8,7 +8,9 @@ Is an independent individual or small teams of video game developers and usually
 
 COMMITMENT to QUALITY
 
-To be a success in the gaming experiences we provide our players.<br>The goal of each discipline within the company is to be a good artist, programmer or customer support and make our games as fun as possible for as many people as we can reach.
+To be a success in the gaming experiences we provide our players.
+
+The goal of each discipline within the company is to be a good artist, programmer or customer support and make our games as fun as possible for as many people as we can reach.
 
 We approach each task carefully and seriously to every aspect of our jobs. We seek honest feedback and use it to improve the quality of our work.
 
