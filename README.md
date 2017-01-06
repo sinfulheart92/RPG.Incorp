@@ -1,8 +1,12 @@
-# Copyright (c) 2017 ϻӡϻӡή†Ǿ ♥ ϻǾЯí (www.RPG-Incorp.com)
+#RPG INCORPORATED
 
-Mission
+Is an independent company
 
-#COMMITMENT to QUALITY
+"Resistance outwits the amateur with the oldest trick in the book: it uses his own enthusiasm against him." - Steven Pressfield, The War of Art
+
+#Mission
+
+COMMITMENT to QUALITY
 
 To be a success in the gaming experiences we provide our players.<br>The goal of each discipline within the company is to be a good artist, programmer or customer support and make our games as fun as possible for as many people as we can reach.
 We approach each task carefully and seriously to every aspect of our jobs. We seek honest feedback and use it to improve the quality of our work.
